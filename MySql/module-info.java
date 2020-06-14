@@ -1,0 +1,3 @@
+module MySql {
+    requires HBase;
+}
