@@ -1,0 +1,3 @@
+module HBaseJava {
+    requires CoreJava;
+}
